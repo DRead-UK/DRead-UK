@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DRead-UK
+- 👀 I’m interested in scripting tools and basic programming
+- 🌱 I’m currently learning MS Azure ARM templates, Python3
